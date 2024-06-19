@@ -37,8 +37,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Just Another Text Editor',
-        short_name: 'JATE',
+        name: 'Jinkc21 Text Editor',
+        short_name: 'J21TE',
         description: 'Progressive Web Applications (PWA): Text Editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
